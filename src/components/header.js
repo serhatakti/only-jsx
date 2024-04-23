@@ -9,7 +9,7 @@ const Header = () => {
                         <a className="link-secondary" href="#">Subscribe</a>
                     </div>
                     <div className="col-4 text-center">
-                        <a className="blog-header-logo text-dark" href="#">Large</a>
+                        <a className="blog-header-logo text-dark" href="#">ONLY JSX</a>
                     </div>
                     <div className="col-4 d-flex justify-content-end align-items-center">
                         <a className="link-secondary" href="#" aria-label="Search">

@@ -2,6 +2,11 @@
 
 This project aims to develop a JavaScript application for simple needs using the power of JSX syntax. It's built without using React, solely relying on JSX. Bootstrap 5 is also utilized for styling. Inspired by the article by Arnaud Dostes on [Medium](https://adostes.medium.com/you-dont-need-react-to-use-jsx-b78dd2a95c27).
 
+## Live Preview
+
+You can view a live preview of this project [here](https://only-jsx.vercel.app/).
+
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -50,7 +55,8 @@ To run this project locally, follow these steps:
 
 ## Acknowledgements
 
-This project was inspired by the article by Arnaud Dostes on [Medium](https://adostes.medium.com/you-dont-need-react-to-use-jsx-b78dd2a95c27), which emphasizes the usage of JSX without relying on React.
+This project was inspired by the article by Arnaud Dostes on [Medium](https://adostes.medium.com/you-dont-need-react-to-use-jsx-b78dd2a95c27), which emphasizes the usage of JSX without relying on React. 
+Blog theme from Bootstrap sample themes was used.
 
 ## Contributions
 
