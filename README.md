@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Project:** First, clone this repository to your local machine.
     ```bash
-    git clone https://github.com/username/project-name.git
+    git clone https://github.com/serhatakti/only-jsx
     ```
 
 2. **Navigate to the Project:** Go to the cloned directory.
@@ -16,12 +16,16 @@ To run this project locally, follow these steps:
     cd only-jsx
     ```
 
-3. **Start the project:**
+3. **Install npm packages:**
+    ```bash
+    npm install
+
+4. **Start the project:**
     ```bash
     npm run start
     ```
 
-4. **Open in Browser:** Visit `localhost:8080` (or the port number you're using) in your browser, and you should see the project running.
+5. **Open in Browser:** Visit `localhost:8080` (or the port number you're using) in your browser, and you should see the project running.
 
 ## Project Structure
     .
